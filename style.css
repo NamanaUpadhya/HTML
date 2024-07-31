@@ -1,0 +1,36 @@
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    text-align: center;
+    padding: 10px;
+    background-color: #f4f4f4;
+}
+
+header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+    border: solid;
+}
+
+section {
+    margin: 20px;
+}
+
+#bio{
+    background-color: #e9e9e9;
+    padding: 15px;
+}
+#work{
+    background-color: #e9e9e9;
+    padding: 15px;
+}
+footer {
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 10px;
+}
